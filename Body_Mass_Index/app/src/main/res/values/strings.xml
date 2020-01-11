@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Kalkulator BMI</string>
+
+    <string name="kurus_judul_0">Kebiasaan Minum</string>
+    <string name="kurus_judul_1">Makan Lebih Sering</string>
+    <string name="kurus_judul_2">Minum Susu</string>
+    <string name="kurus_judul_3">Minum Suplemen</string>
+    <string name="kurus_judul_4">Gunakan Piring Besar</string>
+    <string name="kurus_judul_5">Tambah Krim ke Kopi</string>
+    <string name="kurus_judul_6">Konsumsi Kreatin</string>
+    <string name="kurus_judul_7">Tidur Berkualitas</string>
+    <string name="kurus_judul_8">Konsumsi Protein</string>
+    <string name="kurus_judul_9">Berhenti Merokok</string>
+    <string name="kurus_info_0">Hindari minum air sebelum makan karena membuat perut kenyang dan membuat lebih sedikit kalori yang masuk.</string>
+    <string name="kurus_info_1">Biarkan mulut terus bekerja, baik konsumsi makanan berat atau camilan tambahan kapan pun, misalnya sebelum tidur.</string>
+    <string name="kurus_info_2">Minum susu untuk memuaskan dahaga adalah cara sederhana untuk mendapatkan protein dan kalori yang lebih berkualitas tinggi.</string>
+    <string name="kurus_info_3">Ini adalah salah satu cara instan yang tetap memenuhi kebutuhan tubuh karena minuman jenis ini tinggi protein, karbohidrat dan kalori.</string>
+    <string name="kurus_info_4">Kuantitas makanan yang lebih banyak biasanya juga menambah jumlah kalori yang masuk ke tubuh.</string>
+    <string name="kurus_info_5">Penambahan krim saat minum kopi juga dapat meningkatkan jumlah kalori dalam tubuh.</string>
+    <string name="kurus_info_6">Kreatin adalah suplemen pembentuk otot di mana dapat menambah berat badan beberapa kilogram dalam bentuk otot.</string>
+    <string name="kurus_info_7">Tidur adalah gaya hidup sehat yang tak boleh dilupakan saat program pembentukan badan.</string>
+    <string name="kurus_info_8">Utamakan makanan padat kalori yang protein terlebih dahulu saat makan berat, baru kemudian sayuran, agar kebutuhan tubuh tetap maksimal.</string>
+    <string name="kurus_info_9">Perokok cenderung memiliki berat badan lebih rendah dari bukan perokok. Oleh karena itu, hentikan kebiasaan tak sehat tersebut dan gunakan pengalihan makanan.</string>
+
+    <string name="ideal_judul_0">Kurangi Konsumsi Lemak</string>
+    <string name="ideal_judul_1">Hitung Konsumsi Kalori</string>
+    <string name="ideal_judul_2">Makanlah Secukupnya</string>
+    <string name="ideal_judul_3">Makanlah Jika Lapar</string>
+    <string name="ideal_judul_4">Buat Agenda Makan</string>
+    <string name="ideal_judul_5">Jangan Tunda Lapar</string>
+    <string name="ideal_judul_6">Jangan Batasi Diri</string>
+    <string name="ideal_judul_7">Realistis</string>
+    <string name="ideal_info_0">Lemak banyak terdapat dalam daging, mentega, keju, dan dairy product. Gantikan makanan berlemak tinggi dengan yang berserat tinggi.</string>
+    <string name="ideal_info_1">Jika tetap mengkonsumsi makanan berkalori tinggi seperti minuman bersoda, biskuit, kue, atau permen, kemungkinan besar berat badan akan bertambah.</string>
+    <string name="ideal_info_2">Sepiring nasi dengan sepotong daging ukuran sedang, plus sayuran dan seiris semangka adalah contoh menu yang cukup mengenyangkan namun tidak menggemukkan.</string>
+    <string name="ideal_info_3">makan tiga kali sehari dan hindari mengudap camilan di antara waktu-waktu makan tersebut. Kebiasaan ngemil sebaiknya dihindari.</string>
+    <string name="ideal_info_4">Dengan menuliskan jenis makanan, berapa banyak dan kapan Anda mengkonsumsi sesuatu, Anda akan lebih sadar terhadap makanan yang dikonsumsi selama ini.</string>
+    <string name="ideal_info_5">Jika ini terjadi, Anda cenderung akan makan melebihi porsi yang seharusnya. Makan dalam porsi kecil tapi sering dan banyak minum air putih.</string>
+    <string name="ideal_info_6">Nikmati setiap suapnya. Jika terlalu menahan diri, bukan tak mungkin Anda akan mengkonsumsi secara berlebihan di saat Anda melanggarnya.</string>
+    <string name="ideal_info_7">Menjaga berat badan agar tetap ideal tidak berarti Anda tidak boleh makan di pesta atau semacamnya. Jalankan saja diet Anda secara rasional dan fleksibel.</string>
+
+    <string name="gemuk_judul_0">Olahraga</string>
+    <string name="gemuk_judul_1">Diet Sehat</string>
+    <string name="gemuk_judul_2">Istirahat yang Cukup</string>
+    <string name="gemuk_judul_3">Jangan Sampai Stres</string>
+    <string name="gemuk_judul_4">Mengonsumsi Jenis Rempah</string>
+    <string name="gemuk_judul_5">Pijatan</string>
+    <string name="gemuk_judul_6">Kurangi Porsi Makan</string>
+    <string name="gemuk_judul_7">Hindari Minuman Bersoda</string>
+    <string name="gemuk_judul_8">Hindari Konsumsi Gorengan</string>
+    <string name="gemuk_judul_9">Banyak Minum Air Putih</string>
+    <string name="gemuk_info_0">Olahraga seolah menjadi aktivitas mutlak yang harus Anda lakukan untuk menurunkan berat badan Anda.</string>
+    <string name="gemuk_info_1">Cara selanjutnya adalah dengan melakukan metode-metode diet yang sudah ada.</string>
+    <string name="gemuk_info_2">Jika Anda ingin menurunkan berat badan, sebaiknya Anda jug mengatur waktu istirahat Anda supaya cukup.</string>
+    <string name="gemuk_info_3">Jika Anda stres, biasanya pelarian yang paling mudah adalah dengan mengonsumsi makanan secara tak terkendali.</string>
+    <string name="gemuk_info_4">Rempah seperti jahe, ginseng, kayu manis, kunyit, jintan, dan sebagainya dinilai bisa membantu melancarkan metabolisme tubuh.</string>
+    <string name="gemuk_info_5">Anda juga bisa memijat bagian-bagian yang mengandung lemak dengan tujuan melepaskan lemak yang tertimbun di bawah kulit.</string>
+    <string name="gemuk_info_6">Anda disarankan untuk lebih sering makan. Akan tetapi, jumlah atau porsi makanan yang Anda konsumsi juga harus lebih sedikit.</string>
+    <string name="gemuk_info_7">Meskipun rasanya lezat, namun konsumsi minuman soda bisa menggagalkan program penurunan berat badan Anda.</string>
+    <string name="gemuk_info_8">Lebih seringlah mengonsumsi jenis makanan yang dikukus atau direbus seperti sayur-sayuran misalnya.</string>
+    <string name="gemuk_info_9">Minimal konsumsilah 6 gelas air putih setiap harinya untuk menghindari dehidrasi dan membuat sistem metabolisme tetap lancar.</string>
+</resources>
