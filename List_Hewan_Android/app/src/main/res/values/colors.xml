@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="kategori_ternak">#FD8E09</color>
+    <color name="kategori_hutan">#379273</color>
+    <color name="kategori_laut">#16AFCA</color>
+    <color name="kategori_langka">#8800A0</color>
+</resources>

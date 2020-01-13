@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">1080 - Dedi Rahmansah</string>
+    <string name="kategori_ternak">Binatang Ternak</string>
+    <string name="kategori_hutan">Binatang Hutan</string>
+    <string name="kategori_laut">Binatang Laut</string>
+    <string name="kategori_langka">Binatang Langka</string>
+</resources>

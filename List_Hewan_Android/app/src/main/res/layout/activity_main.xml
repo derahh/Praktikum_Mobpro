@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/ternak"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:background="@color/kategori_ternak"
+        android:paddingLeft="16dp"
+        android:gravity="center_vertical"
+        android:text="Ternak"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/hutan"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:background="@color/kategori_hutan"
+        android:paddingLeft="16dp"
+        android:gravity="center_vertical"
+        android:text="Hutan"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ternak" />
+
+    <TextView
+        android:id="@+id/langka"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:background="@color/kategori_langka"
+        android:paddingLeft="16dp"
+        android:gravity="center_vertical"
+        android:text="Langka"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/hutan" />
+
+    <TextView
+        android:id="@+id/laut"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:background="@color/kategori_laut"
+        android:paddingLeft="16dp"
+        android:gravity="center_vertical"
+        android:text="Laut"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/langka" />
+
+</android.support.constraint.ConstraintLayout>
