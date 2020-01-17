@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "579554432263",
+    "firebase_url": "https://my-firebase-clound-messaging.firebaseio.com",
+    "project_id": "my-firebase-clound-messaging",
+    "storage_bucket": "my-firebase-clound-messaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579554432263:android:052630575db2a6a6cb61a2",
+        "android_client_info": {
+          "package_name": "com.derahh.myfirebasecloundmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579554432263-7u6c1038lrv7ijkbelgq282mf8itr87p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.derahh.myfirebasecloundmessaging",
+            "certificate_hash": "b3d34cb6f77d5518347cb98c03ba14b5738326c9"
+          }
+        },
+        {
+          "client_id": "579554432263-lub4ae1nlvq5j0vqnh1c56ojcoufo2o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsOJzBaerIzveOwCs4ArAi93kl4_7_Cnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579554432263-lub4ae1nlvq5j0vqnh1c56ojcoufo2o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579554432263:android:9f40e5c6c083bb5acb61a2",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmasseging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579554432263-avohh7mrgevvddhm68ludd1b0sds5pc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasecloudmasseging",
+            "certificate_hash": "f17227576c161ab3e266fa9bd1ecbdd8dc329bcc"
+          }
+        },
+        {
+          "client_id": "579554432263-lub4ae1nlvq5j0vqnh1c56ojcoufo2o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsOJzBaerIzveOwCs4ArAi93kl4_7_Cnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579554432263-lub4ae1nlvq5j0vqnh1c56ojcoufo2o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
